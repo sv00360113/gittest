@@ -1,5 +1,3 @@
-cd /
-cd /home/ubuntu/git/Dockerdemo
 docker stop helloworld
 docker rm helloworld
 docker build -t hellow-world .
