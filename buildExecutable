@@ -1,0 +1,4 @@
+cd /
+cd /home/ubuntu/git/Dockerdemo
+docker build -t helloworld /home/ubuntu/git/Dockerdemo/
+
